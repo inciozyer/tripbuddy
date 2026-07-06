@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TripBuddy</string>
+    <string name="merhaba_kullanici">Hello %1$s 👋</string>
+    <string name="nereye_gidiyorsun">Where are you going?</string>
+    <string name="mekanlar">Places</string>
+    <string name="oteller">Hotels</string>
+    <string name="gezilecek_yerler">Places to Visit</string>
+    <string name="incele">Details</string>
+    <string name="sihirli_rota">Magic Route</string>
+</resources>
